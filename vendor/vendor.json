@@ -99,6 +99,18 @@
 			"revisionTime": "2017-11-26T19:57:40Z"
 		},
 		{
+			"checksumSHA1": "zIZZJkfCJx0+s6GCdenxvJrBTPM=",
+			"path": "github.com/spf13/cobra",
+			"revision": "ef82de70bb3f60c65fb8eebacbb2d122ef517385",
+			"revisionTime": "2018-04-27T13:45:50Z"
+		},
+		{
+			"checksumSHA1": "AB/VGCv0NIjGYZXhJUBSbVIsOJw=",
+			"path": "github.com/spf13/viper",
+			"revision": "8dc2790b029dc41e2b8ff772c63c26adbb1db70d",
+			"revisionTime": "2018-03-22T07:00:28Z"
+		},
+		{
 			"checksumSHA1": "l9hsW4atYllqlNjJUwHb6lyLn+I=",
 			"path": "github.com/syndtr/goleveldb/leveldb",
 			"revision": "34011bf325bce385408353a30b101fe5e923eb6e",
